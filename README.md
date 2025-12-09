@@ -73,6 +73,10 @@ solve_phase2() - решает оригинальную задачу с Bland's r
 
 extract_original_solution() - возвращает только исходные переменные x1,x2,...
 
+Результат соответствует полученным значениям при помощи надстройки "Поиск решения" в Exel
+<img width="1495" height="240" alt="image" src="https://github.com/user-attachments/assets/401988d1-2e5e-49f0-8ac3-9b9790dd596c" />
+
+
 ## Выводы
 
 
