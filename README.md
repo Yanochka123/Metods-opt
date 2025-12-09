@@ -5,6 +5,8 @@
 Алгоритм решения задач линейного программирования
 
 ***
+<img width="640" height="637" alt="image" src="https://github.com/user-attachments/assets/65def723-63a9-4faf-9563-e6b23e29b7ed" />
+
 ***
 
 ### Инструкция для запуска:
