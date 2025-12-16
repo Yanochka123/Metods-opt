@@ -20,6 +20,8 @@
 Максимизировать <img width="221" height="27" alt="image" src="https://github.com/user-attachments/assets/7d0451fa-e8e2-4bb2-9bd7-b87a5bdd005d" />
 при условиях:
 <img width="168" height="72" alt="image" src="https://github.com/user-attachments/assets/794595bb-06c3-4a73-8d40-595af9792890" />
+<img width="797" height="321" alt="image" src="https://github.com/user-attachments/assets/04c5373f-bde6-41a3-b90c-000b96512925" />
+
 
 Ключевые изменения в simplex_method:
 
