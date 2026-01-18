@@ -156,7 +156,7 @@ def main():
         global_minimum_characteristic_method(f, a, b, eps)
     
     # Вывод результатов
-    print("\n✅ Результаты:")
+    print("\n Результаты:")
     print(f"Приближённый аргумент минимума: x* = {xmin:.6f}")
     print(f"Минимальное значение функции:   f(x*) = {fmin:.6f}")
     print(f"Число итераций:                 {n_iter}")
